@@ -43,6 +43,13 @@ body {
     overflow: visible !important;
     background-color: #fa7129;
 }
+.btn.with-arroww {
+    position: relative;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    float: right;
+}
 
 .somoss{
   height: auto;
