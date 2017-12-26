@@ -5,6 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
+
 /* =======================================================
 *
 * 	Template Style 
@@ -21,6 +22,26 @@ body {
   background: #fff;
   height: 100%;
   position: relative;
+}
+.cognito{
+
+}
+.navbar-brand{
+  background-color: #092b8a;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-collapse.collapse {
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+    background-color: #fa7129;
 }
 
 .somoss{
